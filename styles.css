@@ -1,0 +1,10 @@
+.jumbotron{
+    height: 80vh;
+    background-image: url(images/jumbotron_image.jpg);
+}
+.display-1{
+    color: whitesmoke;
+}
+.lead{
+    color: whitesmoke;
+}
